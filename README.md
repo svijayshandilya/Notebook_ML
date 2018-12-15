@@ -1,6 +1,6 @@
 # Notebook_ML
 
-A small contribution in understanding the basic concepts of some Machine learning algorithms using Jupyter Notebook are below:
+Understanding the basic concepts of some Machine learning algorithms using Jupyter Notebook are below:
 
 Regression:
 Simple Linear Regression:
